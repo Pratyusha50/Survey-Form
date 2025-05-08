@@ -26,4 +26,6 @@ This project helped me practice:
 - Improve design responsiveness across all device sizes.
 - Add custom fonts and other UI improvements.
 
+## License:
+This project is open-source. Feel free to clone and use it for your learning or personal use.
 
